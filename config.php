@@ -1,6 +1,6 @@
 <?php
 
-$apikey = ""; // get your own apiKey from " https://babel-in.xyz "
+$apikey = "https://babel-in.xyz/babel-3305a8808263cb8044f7327b9c1b8e82/tata/channels"; // get your own apiKey from " https://babel-in.xyz "
 $worldwide = "no"; // set yes if u wanna restream else no
 $genreName = "Babel-IN"; // for m3u category
 $cacheFolder = "_cache_"; // set cache folder
